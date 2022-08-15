@@ -31,7 +31,13 @@
 
 06 - [Machine Learning](https://github.com/KAFSALAH/IBM_DataScience/tree/main/Machine%20Learning)
 
-07 - [Applied Data Science Capstone](https://github.com/KAFSALAH/IBM_DataScience/tree/main/Applied%20Data%20Science%20Capstone)
+07 - [Applied Data Science Capstone -	Falcon 9 SpaceX First-Stage Landing Prediction – Data Science Project ](https://github.com/KAFSALAH/IBM_DataScience/tree/main/Applied%20Data%20Science%20Capstone)
+
+• Aim: Predict the successfulness of Falcon 9 Landing.
+
+• Procedure: Data collection using SpaceX open-source APIs and Web-scraping. Data wrangling using Pandas & SQL quires. EDA via Matplotlib & Seaborn. Launch sites locations analysis with Folium. Dashboard vis dash & plotly express. Benchmarking LR, SVM, DT, KNN.
+
+• Findings: All models scored an accuracy of ~ 83%.
 
 
 
