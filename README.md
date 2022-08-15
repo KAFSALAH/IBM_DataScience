@@ -19,17 +19,15 @@
 
 02 - [Data Science Methodology](https://github.com/KAFSALAH/IBM_DataScience/tree/main/Data%20Science%20Methodology)
 
-03 - [Stocks Full Analysis](https://github.com/KAFSALAH/IBM_DataScience/tree/main/Stocks%20Full%20Analysis)
+03 - [SQL with Data Science](https://github.com/KAFSALAH/IBM_DataScience/tree/main/SQL%20with%20Data%20Science)
 
-04 - [SQL with Data Science](https://github.com/KAFSALAH/IBM_DataScience/tree/main/SQL%20with%20Data%20Science)
+04 - [Data Analysis](https://github.com/KAFSALAH/IBM_DataScience/tree/main/Data%20Analysis)
 
-05 - [Data Analysis](https://github.com/KAFSALAH/IBM_DataScience/tree/main/Data%20Analysis)
+05 - [Visualization](https://github.com/KAFSALAH/IBM_DataScience/tree/main/Visualization)
 
-06 - [Visualization](https://github.com/KAFSALAH/IBM_DataScience/tree/main/Visualization)
+06 - [Machine Learning](https://github.com/KAFSALAH/IBM_DataScience/tree/main/Machine%20Learning)
 
-07 - [Machine Learning](https://github.com/KAFSALAH/IBM_DataScience/tree/main/Machine%20Learning)
-
-08 - [Applied Data Science Capstone](https://github.com/KAFSALAH/IBM_DataScience/tree/main/Applied%20Data%20Science%20Capstone)
+07 - [Applied Data Science Capstone](https://github.com/KAFSALAH/IBM_DataScience/tree/main/Applied%20Data%20Science%20Capstone)
 
 
 
